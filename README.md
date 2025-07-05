@@ -1,4 +1,4 @@
-# Vector-DB-tutorial
+# Vector-DB-Pipeline
 This tutorial demonstrates how to convert text data into embeddings using a pre-trained embedding model and store them for similarity search using FAISS. Here's a summary of the steps:
 - Install Libraries: The necessary libraries (sentence-transformers and faiss-cpu) are installed to handle embedding generation and similarity search.
 - Import Libraries: Required libraries are imported, including faiss for managing the vector database and SentenceTransformer for creating sentence embeddings.
