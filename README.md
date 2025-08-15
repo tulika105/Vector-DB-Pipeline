@@ -1,3 +1,5 @@
+<img width="1889" height="847" alt="Screenshot 2025-08-15 165816" src="https://github.com/user-attachments/assets/0151c6c8-4131-4d7c-a13b-2f54a85358f5" />
+
 # **Working with FAISS**
 
 - **Objective**: The tutorial demonstrates how to collect data, generate vector embeddings using Sentence Transformers, and query a vector database (FAISS) for semantic search tasks.
